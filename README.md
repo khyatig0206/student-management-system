@@ -8,6 +8,7 @@ Features
     Search Student: Search for student records based on various criteria such as ID, name, mobile number, email, address, gender, date of birth, and added date.
     Delete Student: Delete student records from the database.
     Update Student: Update existing student records in the database.
+    Export Data: Export student data to CSV, or Excel format.
 
 Requirements
 
